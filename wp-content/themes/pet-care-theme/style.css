@@ -6,3 +6,40 @@ Template:       twentytwentyfive
 
 (optional values you can add: Theme URI, Author URI, Version, License, License URI, Tags, Text Domain)
 */
+
+
+
+body {
+    background-color: #f9f5f0;
+    font-family: 'Segoe UI', 'Helvetica Neue', sans-serif;
+    color: #333333;
+}
+
+header, footer {
+    background-color: #fff8ec;
+    padding: 20px;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #5a4635;
+}
+
+a {
+    color: #8a5c2e;
+}
+
+a:hover {
+    color: #c88f4a;
+}
+
+button, input[type="submit"] {
+    background-color: #8a5c2e;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+
+button:hover, input[type="submit"]:hover {
+    background-color: #c88f4a;
+}
