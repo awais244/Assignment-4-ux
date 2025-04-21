@@ -1,0 +1,2 @@
+[21-Apr-2025 21:34:50 UTC] PHP Warning:  Undefined array key "host" in /workspaces/Assignment-4-ux/.wordpress/wp-includes/pluggable.php on line 1640
+[21-Apr-2025 21:37:41 UTC] PHP Warning:  Undefined variable $parent_theme_name in /workspaces/Assignment-4-ux/.wordpress/wp-content/mu-plugins/one-click-child-theme/templates/create_child_form.php on line 18
